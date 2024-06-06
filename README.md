@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/811451852.svg)](https://zenodo.org/doi/10.5281/zenodo.11508512)
 # Pyrates_Deformation
 
 This repository was created for the reproducable works from the Mavrommatis et. all (2011) for analyzing the post-seismic behaviour of the 2011 Mw 9.0 Tohoku-oki earthquake.
